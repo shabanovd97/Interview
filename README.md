@@ -73,3 +73,20 @@
 -----
 
 ## Questions to the customer
+
+- <span style="color:#ff6666">Which technology stack do you use?</span>
+- <span style="color:#ff6666">Please tell me about the team?</span>
+- <span style="color:#ff6666">Do you have code review and what about your test coverage?</span>
+- <span style="color:#ff6666">What is your work schedule?</span>
+- <span style="color:#ff6666">Do you provide career opportunities?</span>
+- <span style="color:#ff6666">What would you like to improve in the company?</span>
+- <span style="color:#ffcc66">What are the advantages of your company?</span>
+- <span style="color:#ffcc66">Tell me about the company values?</span>
+- <span style="color:#ffcc66">Can you describe the ideal candidate for this position?</span>
+- <span style="color:#ffcc66">How would you rate my success?</span>
+- <span style="color:#ffcc66">How works your pipeline?</span>
+- <span style="color:#cc99ff">Tell me about business trips?</span>
+- <span style="color:#cc99ff">Do you use SCRUM, AGILE?</span>
+- <span style="color:#cc99ff">Tell me about your expirience / technical backgraund?</span>
+
+-----
