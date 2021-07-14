@@ -87,6 +87,6 @@
 - <span style="color:#ffcc66">How works your pipeline?</span>
 - <span style="color:#cc99ff">Tell me about business trips?</span>
 - <span style="color:#cc99ff">Do you use SCRUM, AGILE?</span>
-- <span style="color:#cc99ff">Tell me about your expirience / technical backgraund?</span>
+- <span style="color:#cc99ff">Tell me about your experience / technical background?</span>
 
 -----
